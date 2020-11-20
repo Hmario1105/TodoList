@@ -1,0 +1,26 @@
+[
+    {
+        "checked": false,
+        "teendo": "reggeli"
+    }, 
+
+    {
+        "checked": true,
+        "teendo": "bevásárlás"
+    },
+
+    {
+        "checked": false,
+        "teendo": "ebéd"
+    },
+
+    {
+        "checked": false,
+        "teendo": "sétálás"
+    },
+
+    {
+        "checked": false,
+        "teendo": "vacsi"
+    }
+]

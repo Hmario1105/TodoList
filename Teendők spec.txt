@@ -1,0 +1,27 @@
+# json: 
+teendok.json
+két mező: 
+	checked: true, false
+	todo: A feladat szövege
+lenne benne leglább 5 db teszt adat
+
+
+# alkalmazás
+neve (mappa): todo
+Alapban beolvassa (ajax) egy checkbox-asl ellátott listába
+Beolvasás: todo nevű objetum tömbe.
+
+	x reggeli
+	  ebédelni
+	  kutya
+	  gyógyszertár	
+
+checkbox:
+	pipa -> objetum tömbben is pipa
+
+lista fölé: 
+	checkbox: csoportos kijelölés
+	törlés gomb: a pipált elemek eltűnnek
+	szövegmező: új teendőt felvinni
+
+Fontos, hogy csak a memóriában kotorászunk, a json változatlan marad
